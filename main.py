@@ -1,6 +1,9 @@
 #Function 1
 # Returns Area of Rectangle
 
+def rect_area(length, width):
+   return length * width
+
 #Function 2
 # Returns Surface Area of Rectangular Solid
 
